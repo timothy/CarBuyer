@@ -1,0 +1,21 @@
+D:\randum progs\CarBuyer\CarBuyer\bin\Debug\CarBuyer.exe.config
+\\cs1\CS_Students\tbradford16\CS 457 Artificial Intelligence\HW5\CarBuyer\CarBuyer\bin\Debug\CarBuyer.exe.config
+\\cs1\CS_Students\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\bin\Debug\CarBuyer.exe.config
+Q:\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\bin\Debug\CarBuyer.exe.config
+Q:\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\bin\Debug\CarBuyer.exe
+Q:\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\bin\Debug\CarBuyer.pdb
+Q:\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\obj\Debug\CarBuyer.csprojResolveAssemblyReference.cache
+Q:\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\obj\Debug\CarBuyer.exe
+Q:\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\obj\Debug\CarBuyer.pdb
+Y:\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\bin\Debug\CarBuyer.exe.config
+Y:\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\obj\Debug\CarBuyer.exe
+Y:\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\bin\Debug\CarBuyer.exe
+Y:\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\bin\Debug\CarBuyer.pdb
+Y:\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\obj\Debug\CarBuyer.csprojResolveAssemblyReference.cache
+Y:\tbradford16\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\obj\Debug\CarBuyer.pdb
+Z:\old school\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\bin\Debug\CarBuyer.exe.config
+Z:\old school\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\obj\Debug\CarBuyer.exe
+Z:\old school\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\bin\Debug\CarBuyer.exe
+Z:\old school\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\bin\Debug\CarBuyer.pdb
+Z:\old school\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\obj\Debug\CarBuyer.csprojResolveAssemblyReference.cache
+Z:\old school\CS 457 Artificial Intelligence\HW5 car buyer\CarBuyer\CarBuyer\obj\Debug\CarBuyer.pdb
